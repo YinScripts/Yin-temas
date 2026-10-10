@@ -1983,6 +1983,7 @@ return {
                 Avatar     = "rbxassetid://97508939792418",
                 Emote      = "rbxassetid://101452871224485",
                 All        = "rbxassetid://139112968149605",
+                Color      = "rbxassetid://87440212637638",
             },
         },
 
@@ -2063,6 +2064,7 @@ return {
                 Avatar     = "rbxassetid://97508939792418",
                 Emote      = "rbxassetid://101452871224485",
                 All        = "rbxassetid://139112968149605",
+                Color      = "rbxassetid://87440212637638",
             },
         },
 
