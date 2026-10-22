@@ -92,7 +92,7 @@ local DEFAULT_SOUND = "rbxassetid://138567614125924"
 return {
 
     --// Versión del archivo (incrementar al hacer cambios)
-    Version = 19,
+    Version = 20,
 
     --// Tema por defecto
     DefaultTheme = "Dark",
@@ -184,7 +184,7 @@ return {
                 ToggleOn   = RGB(52, 199, 89),
             },
             Sound      = DEFAULT_SOUND,
-            Background = "rbxassetid://87986902185866",
+            Background = "rbxassetid://97998238819608",
             Effect     = "Off",
         },
 
