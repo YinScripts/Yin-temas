@@ -92,7 +92,7 @@ local DEFAULT_SOUND = "rbxassetid://138567614125924"
 return {
 
     --// Versión del archivo (incrementar al hacer cambios)
-    Version = 21,
+    Version = 22,
 
     --// Tema por defecto
     DefaultTheme = "Dark",
@@ -2090,7 +2090,7 @@ return {
                 TabActive   = RGB(122, 62, 98),      -- Rosa oscuro (texto legible encima)
             },
             Sound      = DEFAULT_SOUND,
-            Background = "rbxassetid://134254312403992",   -- mismo fondo que Senju por el momento
+            Background = "rbxassetid://92793299414952",    -- fondo navideño
             Effect     = "Off",
             TransparentTabs = true,
             WindowIcons = {
