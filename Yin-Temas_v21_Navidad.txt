@@ -92,7 +92,7 @@ local DEFAULT_SOUND = "rbxassetid://138567614125924"
 return {
 
     --// Versión del archivo (incrementar al hacer cambios)
-    Version = 22,
+    Version = 23,
 
     --// Tema por defecto
     DefaultTheme = "Dark",
@@ -2088,6 +2088,7 @@ return {
                 Counter       = RGB(43, 165, 200),   -- Cian de los ojos (contador de jugadores)
                 PillBorderAlt = RGB(43, 165, 200),   -- Cian de los ojos (centro del borde del boombox)
                 TabActive   = RGB(122, 62, 98),      -- Rosa oscuro (texto legible encima)
+                SubText     = RGB(255, 255, 255),    -- Blanco: texto de abajo del boombox legible sobre la imagen
             },
             Sound      = DEFAULT_SOUND,
             Background = "rbxassetid://92793299414952",    -- fondo navideño
