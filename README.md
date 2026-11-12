@@ -1,6 +1,6 @@
 <div align="center">
 
-![Yin Temas: dale tu propio estilo a Yin Yang](docs/assets/yin-temas.jpg)
+![Yin Temas: dale tu propio estilo a Yin Yang](docs/assets/temas-portada-v2.jpg)
 
 # Yin Temas ✨
 
@@ -18,8 +18,8 @@ Colores, fondos y detalles para transformar la interfaz.
 Una mirada a diferentes apariencias de Yin Yang y a su editor de temas:
 
 <table>
-<tr><td width="50%"><img src="docs/assets/claro.jpg" alt="Yin Yang con apariencia clara"><br><b>Claro</b></td><td width="50%"><img src="docs/assets/oscuro.jpg" alt="Yin Yang con apariencia oscura"><br><b>Oscuro</b></td></tr>
-<tr><td width="50%"><img src="docs/assets/rosa.jpg" alt="Yin Yang con apariencia rosa"><br><b>Rosa</b></td><td width="50%"><img src="docs/assets/editor.jpg" alt="Editor de temas personalizados de Yin Yang"><br><b>Editor de temas</b></td></tr>
+<tr><td width="50%"><img src="docs/assets/temas-rosa.jpg" alt="Selección de temas rosas en Yin Yang"><br><b>Temas rosas</b></td><td width="50%"><img src="docs/assets/temas-varios.jpg" alt="Selección de temas oscuros y rojos en Yin Yang"><br><b>Más estilos</b></td></tr>
+<tr><td width="50%"><img src="docs/assets/temas-editor.jpg" alt="Lista de temas personalizados en Yin Yang"><br><b>Temas personalizados</b></td><td width="50%"><img src="docs/assets/editor.jpg" alt="Editor de temas personalizados de Yin Yang"><br><b>Editor de temas</b></td></tr>
 </table>
 
 Las imágenes muestran ejemplos de la interfaz y su personalización; el editor forma parte de Yin Yang.
